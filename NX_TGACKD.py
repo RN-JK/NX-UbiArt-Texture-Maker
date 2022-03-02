@@ -20,7 +20,6 @@ try:
 
         ckdoutput.write(xtxdata)
         ckdoutput.close()
-        print(ckdoutput)
 
 except:
     pass
